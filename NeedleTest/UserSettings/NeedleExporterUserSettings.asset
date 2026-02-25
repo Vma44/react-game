@@ -15,5 +15,5 @@ MonoBehaviour:
   ShowWelcomeWindowAtStart: 1
   firstInstallation: 0
   UseVSCode: 1
-  UserReadAndAcceptedEula: 0
-  UserConfirmedEulaCompliance: 0
+  UserReadAndAcceptedEula: 1
+  UserConfirmedEulaCompliance: 1
