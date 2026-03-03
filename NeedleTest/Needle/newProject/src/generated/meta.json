@@ -9,10 +9,10 @@
     "materials": true,
     "sceneCamera": false
   },
-  "gzip": false,
+  "gzip": true,
   "generator": "Unity 6000.3.8f1, Needle Engine Integration @4.14.0",
   "license": {
-    "team": "org_6ugp5c2ihdv1"
+    "team": "org_pnqwjypi7it1"
   },
   "allowHotReload": true,
   "developmentBuild": false,
